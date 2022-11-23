@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Russia-Ukraine War News: Live Updates - The New York Times",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMiRWh0dHBzOi8vd3d3Lm55dGltZXMuY29tL2xpdmUvMjAyMi8xMS8xMy93b3JsZC9ydXNzaWEtdWtyYWluZS13YXItbmV3c9IBAA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-11-13T18:39:44Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "BBC News"
+    },
+    "author": "https://www.facebook.com/bbcnews",
+    "title": "US midterms: Republicans blame Trump and McConnell for poor showing - BBC",
+    "description": "Donald Trump and Mitch McConnell get heat from colleagues after the Democrats keep control of the Senate.",
+    "url": "https://www.bbc.com/news/world-us-canada-63618188",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/152CC/production/_127623768_gettyimages-1244654733.jpg",
+    "publishedAt": "2022-11-13T18:17:37Z",
+    "content": "News that Democrats have held the US Senate after midterm elections this week has sparked recriminations within the Republican Party.\r\nCritics of former President Donald Trump blamed him for the poor… [+2533 chars]"
+    },
+    {
+    "source": {
+    "id": "al-jazeera-english",
+    "name": "Al Jazeera English"
+    },
+    "author": "Al Jazeera",
+    "title": "Explosion in Turkey’s Istanbul kills six, injures 81 - Al Jazeera English",
+    "description": "Turkey’s President Erdogan says the blast on a busy Istanbul thoroughfare was a ‘heinous attack’.",
+    "url": "https://www.aljazeera.com/news/2022/11/13/turkey-istanbul-explosion-istiklal-several-injured",
+    "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/11/AP22317556088099.jpg?resize=1920%2C1440",
+    "publishedAt": "2022-11-13T18:11:15Z",
+    "content": "Six people have been killed and 81 others wounded as an explosion rocked a busy pedestrian street in central Istanbul, in an incident that President Recep Tayyip Erdogan has called a bomb attack that… [+2894 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Susannah Cullinane",
+    "title": "A pair of vintage military aircraft collided at a Texas air show. Here are the latest developments - CNN",
+    "description": "A National Transportation Safety Board team is expected to begin investigating Saturday's fatal collision at the Wings Over Dallas airshow when its team arrives at the crash scene later today.",
+    "url": "https://www.cnn.com/2022/11/13/us/dallas-air-show-collision-sunday/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221113025547-03-dallas-air-show-collision-sunday.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-13T17:47:00Z",
+    "content": "Two World War II-era military planes collided in midair and crashed at Dallas Executive Airport during an airshow Saturday afternoon, killing all on board.\r\nMore than 40 fire rescue units responded t… [+5184 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "Seattle Seahawks vs. Tampa Bay Buccaneers | 2022 Week 10 Game Highlights - NFL",
+    "description": "Check out our other channels:NFL Mundo https://www.youtube.com/mundonflNFL Brasil https://www.youtube.com/c/NFLBrasilOficialNFL UK https://www.youtube.com/ch...",
+    "url": "https://www.youtube.com/watch?v=xInE_3Bc2H4",
+    "urlToImage": "https://i.ytimg.com/vi/xInE_3Bc2H4/maxresdefault.jpg",
+    "publishedAt": "2022-11-13T17:37:09Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": "Aaron Navarro",
+    "title": "What's left to count in the House? Can Democrats hold the majority? - CBS News",
+    "description": "While very unlikely, there is a narrow path to keeping the majority for Democrats.",
+    "url": "https://www.cbsnews.com/news/2022-election-results-house-races-democrats-majority/",
+    "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2020/05/19/4d5b4b82-bc92-462b-ac5c-b74b33a34d13/thumbnail/1200x630/87e29f46aff857adf65a26c3bc03becd/gettyimages-2062525.jpg",
+    "publishedAt": "2022-11-13T17:35:00Z",
+    "content": "House Republicans are in position to reach the 218 seats they need to flip the chamber after the midterm elections. As of Saturday night, CBS News estimates Republicans will win at least 214 seats, w… [+3340 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "JEFF AMY",
+    "title": "Shorter voting window could cut turnout in Georgia runoff - Yahoo News",
+    "description": "Georgia Democrat Raphael Warnock's first runoff in 2021 was a titanic nine-week clash to control the Senate that included three weeks of early in-person...",
+    "url": "https://news.yahoo.com/shorter-voting-window-could-cut-160640918.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/_Z9uPhtfhJtiIQZNDENfNw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/ap.org/bb4d1cf1eb3cf03c57e072ff2db8e5dc",
+    "publishedAt": "2022-11-13T16:06:40Z",
+    "content": "ATLANTA (AP) Georgia Democrat Raphael Warnock's first runoff in 2021 was a titanic nine-week clash to control the Senate that included three weeks of early in-person voting and lots of mail ballots.\r… [+5401 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Ashley Capoot",
+    "title": "Pelosi says Republican's 'red wave' turned into a 'little, tiny trickle' - CNBC",
+    "description": "As states across the country continue to count votes in a tight battle for control of the House of Representatives, House Speaker Nancy Pelosi said Democrats \"haven't given up.\"",
+    "url": "https://www.cnbc.com/2022/11/13/pelosi-says-republicans-red-wave-turned-into-a-little-tiny-trickle.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/107150436-1668176479122-gettyimages-1440743452-sg013304_ba062e81-1971-47b9-9165-d3187894d72b.jpeg?v=1668354846&w=1920&h=1080",
+    "publishedAt": "2022-11-13T15:54:06Z",
+    "content": "As states across the country continue to count votes in a tight battle for control of the House of Representatives, House Speaker Nancy Pelosi said Democrats \"haven't given up.\"\r\n\"Whatever the outcom… [+2466 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBCSports.com"
+    },
+    "author": "Mike Florio",
+    "title": "Bills hope to keep Vikings in the dark, for as long as possible, about whether Josh Allen will play - NBC Sports",
+    "description": "Bills quarterback Josh Allen reportedly will play today. The Bills, however, are keeping the official word close to the vest for as long as possible.Adam Schefter of ESPN.com reiterates that it’s believed Allen will start despite an elbow injury. Schefter exp…",
+    "url": "https://profootballtalk.nbcsports.com/2022/11/13/bills-hope-to-keep-vikings-in-the-dark-for-as-long-as-possible-about-whether-josh-allen-will-play/",
+    "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/11/GettyImages-1244634779-e1668354026703.jpg",
+    "publishedAt": "2022-11-13T15:40:00Z",
+    "content": "Bills quarterback Josh Allen reportedly will play today. The Bills, however, are keeping the official word close to the vest for as long as possible.\r\nAdam Schefter of ESPN.com reiterates that its be… [+1188 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Fox Business"
+    },
+    "author": "Ryan Gaydos",
+    "title": "UFC 281: Drake loses millions after Israel Adesanya loses to Alex Pereira - Fox Business",
+    "description": "Drake took a shot in the wallet on Saturday night when his bet on Israel Adesanya to beat Alex Pereira failed to pay off at UFC 281.",
+    "url": "https://www.foxbusiness.com/sports/ufc-281-drake-loses-millions-israel-adesanya-loses-alex-pereira",
+    "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/11/0/0/Drake.jpg?ve=1&tl=1",
+    "publishedAt": "2022-11-13T15:17:41Z",
+    "content": "While Alex Pereira and Israel Adesanya both hurt each other with punches and kicks in the Octagon at UFC 281 on Saturday night, Drake had his wallet bruised after losing his bet on the middleweight t… [+2032 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Arizona Daily Star"
+    },
+    "author": "Meg Kinnard The Associated Press",
+    "title": "Why the Associated Press hasn't called the Arizona governor's race - Arizona Daily Star",
+    "description": "WASHINGTON — The Associated Press has not yet called the open governor's race in Arizona between Katie Hobbs, the Democratic secretary of state, and Republican Kari Lake, a former TV",
+    "url": "https://tucson.com/news/local/why-the-associated-press-hasnt-called-the-arizona-governors-race/article_6235fb5c-635e-11ed-837c-5f980902350c.html",
+    "urlToImage": "https://bloximages.chicago2.vip.townnews.com/tucson.com/content/tncms/assets/v3/editorial/0/0b/00bbff6e-4a7e-11ed-ae8d-03db1254e533/62ed9a5717b36.image.jpg?crop=883%2C497%2C0%2C74&resize=883%2C497&order=crop%2Cresize",
+    "publishedAt": "2022-11-13T14:30:00Z",
+    "content": "By Meg Kinnard\r\nThe Associated Press\r\nWASHINGTON The Associated Press has not yet called the open governor's race in Arizona between Katie Hobbs, the Democratic secretary of state, and Republican Kar… [+4418 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Brian Lowry",
+    "title": "'Yellowstone' is back, as the Kevin Costner series takes a sharper turn into politics - CNN",
+    "description": "\"Yellowstone\" is one of those mysteries of the TV business, a series that generates major ratings but like the late comic Rodney Dangerfield, doesn't always get much respect. That dynamic was summed up last year by a Vanity Fair headline that read, \"Here's to…",
+    "url": "https://www.cnn.com/2022/11/13/entertainment/yellowstone-season-5-preview/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221111155035-01-yellowstone-season-5.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-13T13:41:00Z",
+    "content": "Yellowstone is one of those mysteries of the TV business, a series that generates major ratings but like the late comic Rodney Dangerfield, doesnt always get much respect. That dynamic was summed up … [+2625 chars]"
+    },
+    {
+    "source": {
+    "id": "business-insider",
+    "name": "Business Insider"
+    },
+    "author": "Jacob Zinkula",
+    "title": "Everyone's been wrong about inflation, and it's costing workers in salary negotiations - msnNOW",
+    "description": "Americans have been underestimating inflation. They could be missing out on higher wages as a result.",
+    "url": "https://www.businessinsider.com/salary-negotiations-inflation-expectations-economy-2022-11",
+    "urlToImage": "https://i.insider.com/636d34cff5877200181c51d0?width=1200&format=jpeg",
+    "publishedAt": "2022-11-13T13:00:00Z",
+    "content": "Americans keep waiting for inflation to return to normal levels. But that wait has taken longer than expected, and it could be among the reasons wages have fallen well behind inflation over the past … [+5259 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Video Games Chronicle"
+    },
+    "author": "Jordan Middler",
+    "title": "European Commission responds after Microsoft Activision comments from staffer receive backlash - Video Games Chronicle",
+    "description": "A senior European Commission staff member has clarified comments on the Microsoft-Activision merger, following wide backlash from players over perceived bias.",
+    "url": "https://www.videogameschronicle.com/news/european-commission-responds-after-microsoft-activision-comments-from-staffer-receive-backlash/",
+    "urlToImage": "https://www.videogameschronicle.com/files/2022/10/activision-blizzard-xbox.jpg",
+    "publishedAt": "2022-11-13T12:25:57Z",
+    "content": "The European Commission has clarified claims of perceived bias in the probe into Microsofts Activision Blizzard deal, following comments from a senior staff member on social media.\r\nRicardo Cardoso, … [+2697 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "Democrats retain control of Senate with victory in Nevada - CBS News",
+    "description": "Sen. Catherine Cortez Masto's victory Saturday evening clinched Senate control for the Democrats four days after Election Day.",
+    "url": "https://www.cbsnews.com/news/2022-election-democrats-senate-nevada-catherine-cortez-masto-adam-laxalt/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/13/bed75c0a-cf64-4055-905b-8d53e1d50116/thumbnail/1200x630/f4e3f6782a83405f19425da10fcc6813/gettyimages-1428118684.jpg",
+    "publishedAt": "2022-11-13T12:21:00Z",
+    "content": "Democrats will continue to control the Senate following the 2022 midterm elections, after Nevada Sen. Catherine Cortez Masto on Saturday was projected by CBS News to win a tight reelection race again… [+5233 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Yellen says U.S. debt ceiling hike by lame-duck Congress would be 'great' - Reuters",
+    "description": "The U.S. Treasury Secretary Janet Yellen on Sunday said that the Democrats' clinching of U.S. Senate control makes things easier for the Biden administration, but she would still like to see a debt ceiling increase approved before year-end in Congress's post-…",
+    "url": "https://www.reuters.com/world/us/yellen-says-us-debt-ceiling-hike-by-lame-duck-congress-would-be-great-2022-11-13/",
+    "urlToImage": "https://www.reuters.com/resizer/IZqnXunr20xaj4cIaSvjbCKfVmY=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/AS4I443TARIKDEAT664KIOGBZM.jpg",
+    "publishedAt": "2022-11-13T11:57:00Z",
+    "content": "NUSA DUA, Indonesia, Nov 13 (Reuters) - The U.S. Treasury Secretary Janet Yellen on Sunday said that the Democrats' clinching of U.S. Senate control makes things easier for the Biden administration, … [+553 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SamMobile"
+    },
+    "author": "SamMobile",
+    "title": "Galaxy S23 Ultra camera sample leaves S22 Ultra and Pixel 7 Pro in the dust - SamMobile - Samsung news",
+    "description": "We've been hearing a lot about the Galaxy S23 Ultra and how its new camera system will blow all other ...",
+    "url": "https://www.sammobile.com/news/galaxy-s23-ultra-camera-sample-leaves-s22-ultra-pixel-7-pro-in-the-dust/",
+    "urlToImage": "https://www.sammobile.com/wp-content/uploads/2022/02/Galaxy-S22-Ultra-35-720x405.jpg",
+    "publishedAt": "2022-11-13T11:09:00Z",
+    "content": "Weve been hearing a lot about the Galaxy S23 Ultra and how its new camera system will blow all other phones out of the water. And now, an alleged sample photo captured with the unreleased Galaxy S23 … [+1917 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Zoe Sottile",
+    "title": "Mindfulness works just as well as medication to curb anxiety, study finds - CNN",
+    "description": "A mindfulness meditation course may be as effective at reducing anxiety as a common medication, according to a new study.",
+    "url": "https://www.cnn.com/2022/11/13/health/meditation-lexapro-wellness-trnd/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221111135057-home-meditation-stock.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-13T11:01:00Z",
+    "content": "A mindfulness meditation course may be as effective at reducing anxiety as a common medication, according to a new study.\r\nThe research, published on November 9 in JAMA Psychiatry, involved a group o… [+5559 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Betsy Klein, Phil Mattingly, Kevin Liptak",
+    "title": "Biden celebrates Democrats holding the Senate on second day of Asia summits - CNN",
+    "description": "President Joe Biden landed in Cambodia on Saturday still reveling in midterm election results that have produced an unexpected boost at home for his second two years in office.",
+    "url": "https://www.cnn.com/2022/11/12/politics/joe-biden-cambodia-day-two/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/221113042759-01-biden-cambodia-111322.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-11-13T10:42:00Z",
+    "content": "Phnom Penh, CambodiaCNN\r\n  — \r\nPresident Joe Biden landed in Cambodia on Saturday still reveling in midterm election results that have produced an unexpected boost at home for his second two years in… [+5903 chars]"
+    },
+    {
+    "source": {
+    "id": "financial-times",
+    "name": "Financial Times"
+    },
+    "author": "Caitlin Gilbert, Courtney Weaver, Stefania Palma",
+    "title": "Sam Bankman-Fried's fall cuts off big source of funds for US Democrats - Financial Times",
+    "description": "News, analysis and comment from the Financial Times, the worldʼs leading global business publication",
+    "url": "https://www.ft.com/content/428c7800-c72d-4c59-9940-4376fea6e263",
+    "urlToImage": null,
+    "publishedAt": "2022-11-13T10:25:54Z",
+    "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1496 chars]"
+    }
+    ]
+    }
